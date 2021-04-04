@@ -1,6 +1,11 @@
+### React TODO
+
 Give Your try @ https://react-todo-jaypatel1210.vercel.app/  
 
-# Getting Started with Create React App
+
+**Build a simple todo app in React to understand concept of ``Context API, reducer``**
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
